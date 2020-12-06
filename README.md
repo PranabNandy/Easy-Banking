@@ -3,7 +3,7 @@
 
 **The Application is devoloped using the concept of State Transition in
 Automata Theory to enhanced the limitation of GUI based application of
-tkinter library in Python language. Here the apllication is changing its state(state means GUI interface) with help of some parameters and theough the state transition we can able flow the data (i.e. UDI(unconstrain data item) converts into CDI ( constrain data item). **
+tkinter library in Python language. Here the apllication is changing its state(state means GUI interface) with help of some parameters and through the state transition we can able flow the data (i.e. UDI(unconstrain data item) converts into CDI ( constrain data item).**
 
 ![Methodology](/image/7.JPG)
 
