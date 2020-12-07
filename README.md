@@ -1,9 +1,9 @@
 # Easy-Banking
 **Easy Banking is a stand alone apllication.**
 
-**The Application is devoloped using the concept of State Transition in
+The Application is devoloped using the concept of State Transition in
 Automata Theory to enhanced the limitation of GUI based application of
-tkinter library in Python language. Here the apllication is changing its state(state means GUI interface) with help of some parameters and through the state transition we can able to flow the data (i.e. UDI (unconstrain data item) converts into CDI (constrain data item)) within the system.**
+tkinter library in Python language. Here the apllication is changing its state(state means GUI interface) with help of some parameters and through the state transition we can able to flow the data (i.e. UDI (unconstrain data item) converts into CDI (constrain data item)) within the system.
 
 ![Methodology](/images/11.JPG)
 
