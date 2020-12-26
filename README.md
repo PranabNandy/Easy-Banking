@@ -13,6 +13,6 @@ tkinter library in Python language. Here the apllication is changing its state(s
 
 It depicts the concept of hyperlink just like our web brouser. It overcomes the problem of existance of old GUI and at the same time it is transfering the information to newly generated GUI. I analyzed the limitation in tkinter library and try to come up with a solution with the help of Object Oriented Design using my knowledge and skill.
 
-In future I will try to overcome the problem of authentication in tkiner library in this current apllication so that I can inject the Authorization concept for individual user.
+In future I will try to add the interest concept just like real time banking system.
 
 ![Methodology](/images/12.JPG)
