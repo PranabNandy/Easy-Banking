@@ -1,5 +1,5 @@
 # Easy-Banking
-**Easy Banking is a stand alone apllication.**
+**Easy Banking is a stand alone application.**
 
 The Application is devoloped using the concept of State Transition in
 Automata Theory to enhanced the limitation of GUI based application of
